@@ -11,7 +11,7 @@ This project focus on building a simple social media app, to practice all the sk
 
 ## Live Demo
 
-TBA
+[Live version](https://stay-in-touch-dl.herokuapp.com/)
 
 ## Getting Started
 
